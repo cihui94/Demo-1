@@ -2,9 +2,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: shibainu@gmail.com
+&nbsp;&nbsp; 📲 +65-666123123
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/cihui94/Demo-1/blob/main/Shiba%2BInu%2Bdog%2Bwith%2Ba%2Bburnt%2Borange%2Bcollar%2Band%2Bsilver%2Btag%2Bresting%2Bon%2Bcarpet-min.jpg)
 
 <!-- Add your details -->
 
